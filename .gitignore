@@ -1,6 +1,6 @@
-include/SDL3/
-macos/bin/game
+/include/SDL3
+/macos/bin/game
 .DS_Store
-include/.DS_Store
-macos/.DS_Store
+/include/.DS_Store
+/macos/.DS_Store
 
